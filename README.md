@@ -37,8 +37,7 @@ But the journey doesn't end there! Dive deeper into the ocean of insights with A
 Ready to embark on this transformative data journey? Strap in and navigate through our comprehensive documentation, featuring setup guides, configuration best practices, and optimization tips to maximize the value of your data assets. Let's embark on a voyage towards data-driven excellence!
 
 
-🛠️ Architecture/Workflows
-
+🛠️ 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲/𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀
 
 ![image](https://github.com/aifreak00/Reddit_Data_Engineer_Project/assets/113664560/1f1a21fb-4ebb-44f2-b9c3-1c27342f303a)
 
