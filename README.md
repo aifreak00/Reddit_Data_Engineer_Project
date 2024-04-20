@@ -40,6 +40,6 @@ Ready to embark on this transformative data journey? Strap in and navigate throu
 🛠️ Architecture/Workflows
 
 
-     
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![image](https://github.com/aifreak00/Reddit_Data_Engineer_Project/assets/113664560/1f1a21fb-4ebb-44f2-b9c3-1c27342f303a)
+
 
